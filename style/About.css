@@ -1,0 +1,106 @@
+* {
+  margin: auto;
+  padding: 0;
+  background-attachment: fixed;
+  box-sizing: border-box;
+  font-family: 'Baloo 2', cursive;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #2dce70, white);
+  height: 200px;
+}
+
+.center {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 2%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header {
+  background-color: rgb(255, 255, 255);
+  padding: 20 px 0;
+  border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+.logo h2 {
+  color: #ffffff;
+}
+
+.logo a {
+  text-decoration: none;
+}
+
+.logo h2 {
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+.menu {
+  width: 80%;
+  text-align: right;
+}
+
+.menu a {
+  color: #ffffff;
+  font-size: 14px;
+  text-decoration: none;
+  margin-right: 20px;
+  /*transition: 1s;*/
+}
+.menu a:hover {
+  color: #ffffff;
+}
+
+.menu .Login {
+  background-color: #1e3527;
+  padding: 4px 14px;
+  color: white;
+  border-radius: 6px;
+}
+
+.menu .login:hover {
+  background-color: #009dff;
+  color: rgb(255, 255, 255);
+}
+
+/* Img */
+
+.img_about img {
+  margin-top: 50px;
+  display: flex;
+}
+
+.text_about h1 {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.text_about h2 {
+  text-align: center;
+  margin-top: 50px;
+  color: #000000;
+}
+
+.footer-bottom {
+  margin-top: 20px;
+  background: transparent;
+  width: 100vw;
+  padding: 20px 0;
+  text-align: center;
+}
+.footer-bottom p {
+  font-size: 14px;
+  word-spacing: 2px;
+  text-transform: capitalize;
+}
+.footer-bottom a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  text-transform: uppercase;
+  opacity: 4;
+  font-weight: 200;
+}

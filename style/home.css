@@ -1,0 +1,306 @@
+* {
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Baloo 2', cursive;
+}
+
+.center {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 2%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header {
+  background-color: rgb(255, 255, 255);
+  padding: 20 px 0;
+  border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+.logo h2 {
+  color: #59ff9e;
+}
+
+.logo a {
+  text-decoration: none;
+}
+
+.logo h2 {
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+.menu {
+  width: 80%;
+  text-align: right;
+}
+
+.menu a {
+  color: #59ff9e;
+  font-size: 14px;
+  text-decoration: none;
+  margin-right: 20px;
+  /*transition: 1s;*/
+}
+.menu a:hover {
+  color: #ffffff;
+}
+
+.menu .Login {
+  background-color: #2f573f;
+  padding: 4px 14px;
+  color: #000000;
+  border-radius: 6px;
+}
+
+.menu .login:hover {
+  background-color: #009dff;
+  color: rgb(255, 255, 255);
+}
+
+/*
+Setor de colunas
+*/
+
+.main {
+  background-image: url('../img/exe_img.jpg');
+  padding: 70px 0;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.maintext1 {
+  width: 100%;
+  margin: 60px 0;
+  text-align: center;
+}
+
+.maintext1 h2 {
+  color: #000000;
+  margin: 40px;
+}
+
+.maintext1 p {
+  color: #59ff9e;
+  font-size: 19px;
+  margin: 10px 0;
+}
+
+.maintext1 a {
+  text-decoration: none;
+  background-color: #2f573f;
+  display: inline-block;
+  padding: 8px 20px;
+  color: white;
+  font-size: 18px;
+  border-radius: 6px;
+  border: 0;
+  cursor: pointer;
+}
+
+.coltexto {
+  color: #00c1ff;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.colsingle {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  width: 24%;
+  margin-right: 1%;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.sobtext {
+  text-align: center;
+  color: black;
+  font-size: x-large;
+}
+
+.contsobre .fa-solid {
+  color: #2f573f;
+  margin: 15px;
+}
+
+.is .contsobre i {
+  margin: 30px 0;
+}
+
+.textcenter p {
+  font-size: 30px;
+  margin: 20px;
+  text-align: center;
+  color: #59ff9e;
+}
+
+.colsingle i {
+  color: rgb(0, 0, 0);
+}
+
+.colsingle h2 {
+  color: #2f573f;
+  margin: 10px 0;
+  text-align: center;
+  font-size: 17px;
+}
+
+.colsingle p {
+  color: black;
+  font-size: 15px;
+  text-align: center;
+  line-height: 30px;
+}
+
+section.sobre {
+  padding: 80px 0;
+}
+
+.chamada-sobre {
+  width: 100%;
+  text-align: center;
+}
+
+.chamada-Sobre h2 {
+  text-transform: uppercase;
+  color: #00c1ff;
+}
+
+.chamada-Sobre p {
+  font-size: 14px;
+  color: #00c1ff;
+  margin: 10px;
+}
+
+.chamada-Sobre {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chamada-Sobre p {
+  width: 48%;
+  margin-right: 2%;
+  color: #000000;
+}
+
+.chamada-Sobre i {
+  color: #00c1ff;
+}
+
+.chamada-Sobre i {
+  display: inline-block;
+  width: 100%;
+  margin-top: 10px;
+}
+
+section.usuarios {
+  background-color: white;
+  padding: 30px 0;
+}
+
+.numeros {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  color: #2f573f;
+}
+
+body {
+  color: white;
+}
+footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #ffffff;
+  height: auto;
+  width: 100vw;
+  padding-top: 40px;
+  color: rgb(0, 0, 0);
+}
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.footer-content h3 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  text-transform: capitalize;
+  line-height: 3rem;
+}
+.footer-bottom {
+  background: transparent;
+  width: 100vw;
+  padding: 20px 0;
+  text-align: center;
+}
+.footer-bottom p {
+  font-size: 14px;
+  word-spacing: 2px;
+  text-transform: capitalize;
+}
+.footer-bottom a {
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  opacity: 4;
+  font-weight: 200;
+}
+.footer-content p {
+  max-width: 500px;
+  margin: 10px auto;
+  line-height: 28px;
+  font-size: 14px;
+}
+.socials {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0 3rem 0;
+}
+.socials li {
+  margin: 0 10px;
+}
+.socials a {
+  text-decoration: none;
+  color: white;
+}
+source a i {
+  font-size: 1.1rem;
+  transition: color 0.4s ease;
+}
+.socials a:hover i {
+  color: aqua;
+}
+
+.text4 h2 {
+  text-align: center;
+  color: #59ff9e;
+  margin-top: 30px;
+}
+.usuarios .fa-solid {
+  font-size: x-large;
+}
+
+@media screen and (max-widht: 768px) {
+  .colsingle {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .chamada-Sobre p {
+    width: 100%;
+    margin: 20px 20px;
+  }
+}

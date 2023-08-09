@@ -1,0 +1,45 @@
+* {
+  margin: auto;
+  padding: 0;
+  background-attachment: fixed;
+  box-sizing: border-box;
+  font-family: 'Baloo 2', cursive;
+}
+
+body{
+  background-image: linear-gradient( to bottom, cyan, white);
+  height:200px; 
+}
+
+.Titulo h3{
+  text-align: center;
+  margin: 20px;
+  background-color: #002ca8;
+  padding: 4px 14px;
+  color: white;
+  border-radius: 6px;
+}
+
+.tabela thead{
+  margin: 20px;
+  color: rgb(0, 0, 0);
+}
+
+.tabela tbody{
+  margin-top: 20px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+.tabela i{
+  margin: 10px;
+}
+
+.tabela a{
+  margin-left: 10px;
+}
+
+.tabela td{
+  border-radius: 10px;
+}
+

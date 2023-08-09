@@ -1,0 +1,58 @@
+* {
+  margin: auto;
+  padding: 0;
+  background-attachment: fixed;
+  box-sizing: border-box;
+  font-family: 'Baloo 2', cursive;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #24c5ca, white);
+  height: 200px;
+}
+
+header a {
+  margin: 20px;
+  background-color: red;
+  padding: 4px 14px;
+  color: #000000;
+  border-radius: 6px;
+}
+.Titulo h3 {
+  text-align: center;
+  margin: 20px;
+  background-color: #ffffff;
+  padding: 4px 14px;
+  color: rgb(0, 0, 0);
+  border-radius: 6px;
+}
+
+.aviso {
+  color: #a01919;
+}
+
+.tabela tbody {
+  margin-top: 50px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+.tabela th {
+  border-spacing: 10px;
+  color: white;
+}
+
+.tabela a {
+  border-radius: 15px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.tabela i {
+  margin: 10px;
+}
+
+.tabela a {
+  margin-left: 10px;
+}
