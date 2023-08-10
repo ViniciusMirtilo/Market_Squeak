@@ -2,10 +2,12 @@
 
 <p align="center">A project created in the classroom in the ADS course - Systems Analysis and Development, which involves the CRUD procedure (Create, Read, Update, Delete).</p>
 
-<p align="center">
+<!-- href tag -->
+
+<!-- <p align="center">
   <a href="#-Tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 ## 🚀 Tecnologia
 
