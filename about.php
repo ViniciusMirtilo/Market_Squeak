@@ -45,6 +45,5 @@
     <p>copyright &copy;2022 Art box. Design <a href="https://github.com/ViniciusMirtilo">Mirtilo Furry uwu</a></p>
   </div>
   </footer>
-
 </body>
 </html>

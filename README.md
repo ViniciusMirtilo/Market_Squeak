@@ -3,8 +3,8 @@
 <p align="center">A project created in the classroom in the ADS course - Systems Analysis and Development, which involves the CRUD procedure (Create, Read, Update, Delete).</p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🚀 Tecnologia
@@ -15,7 +15,8 @@
 
 ## 💻Sobre o projeto
 
-O projeto para criar um site que use a operação de CRUD (Create, Read, Update, Delete).
+
+<p>O projeto para criar um site que use a operação de CRUD (Create, Read, Update, Delete).</p>
 
 </br>
 

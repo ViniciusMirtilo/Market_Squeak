@@ -14,11 +14,11 @@
 
   <script src="https://kit.fontawesome.com/7048b0b83b.js" crossorigin="anonymous"></script>
 
-  <title>Squeak Market🍆</title>
+  <title>Squeak Market💦</title>
 </head>
 
 <body>
-
+  
   <header>
     <div class="center">
       <div class="logo">
